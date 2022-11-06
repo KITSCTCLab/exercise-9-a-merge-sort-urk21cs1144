@@ -35,7 +35,6 @@ def merge_sort(myList) -> None:
             j += 1
             k += 1
 
-
 # Do not change the following code
 input_data = input()
 data = []
